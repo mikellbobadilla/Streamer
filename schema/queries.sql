@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS genres (
     id bigint primary key generated always as identity,
-    name text not null unique
+    name varchar(50) not null unique
 );
 
 
