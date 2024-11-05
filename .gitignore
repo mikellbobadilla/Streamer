@@ -33,3 +33,5 @@ build/
 .vscode/
 
 db_password.txt
+
+storage
